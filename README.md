@@ -23,7 +23,12 @@ Ce projet utilise une architecture de Deep Learning basée sur les réseaux de n
 
 ## Installation
 
-Pour installer les dépendances, exécutez la commande suivante :
+Clonez ce dépôt :
+```bash
+git clone git@github.com:rxdhwxne1/iSeg2017.git
+```
+
+Puis installez les dépendances :
 ```bash
 pip install -r requirements.txt
 ```
